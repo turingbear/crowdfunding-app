@@ -77,8 +77,7 @@ const CampaignDetails = () => {
             <div className="mt-[20px] flex flex-row flex-wrap items-center gap-[14px]">
               <div className="w-[52px] h-[52px] flex items-center justify-center rounded-full bg-[#2c2f32] cursor-pointer">
                 <img
-                  src={thirdweb}
-                  alt="user"
+                  src='/logo512.png'                  alt="user"
                   className="w-1/2 h-1/2 object-contain"
                 />
               </div>
