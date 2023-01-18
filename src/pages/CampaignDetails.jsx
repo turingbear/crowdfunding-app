@@ -79,7 +79,7 @@ const CampaignDetails = () => {
                 <img
                   src={thirdweb}
                   alt="user"
-                  className="w-[60px] h-[60px] object-contain"
+                  className="w-1/2 h-1/2 object-contain"
                 />
               </div>
               <div>
